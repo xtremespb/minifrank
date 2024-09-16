@@ -1,4 +1,4 @@
-23815837430164287
+23784870055180947
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64652,13 +64652,6 @@ Yellow 5381 Series LED
 2
 2
 LIBS
-AV_MOD_III-8.4-5
-SMD Crystal SERIES SMD0603/4 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-4.pdf, 6.0x3.5mm^2 package
-SMD SMT crystal
-0
-7
-2
-LIBS
 Connector_Mini-DIN_Female_6Pin_2rows
 A footprint for the generic 6 pin Mini-DIN through hole connector with shell.
 mini din 6pin connector socket
@@ -64694,83 +64687,6 @@ CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor
 2
 2
 LIBS
-Medved_DSUB-15-HD_Female_Horizontal
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 25mm mounting-hole-offset 25mm
-0
-17
-16
-LIBS
-Medved_Jack_3.5mm_CUI_SJ1-3535NG_Horizontal
-TRS 3.5mm, horizontal, through-hole, with switch, https://www.cui.com/product/resource/sj1-353xng.pdf
-TRS audio jack stereo horizontal
-0
-5
-5
-LIBS
-Medved_PinHeader_1x02_P2.54mm_Vertical
-Through hole straight pin header, 1x02, 2.54mm pitch, single row
-Through hole pin header THT 1x02 2.54mm single row
-0
-2
-2
-LIBS
-Medved_PinHeader_1x02_P2.54mm_Vertical_C
-Through hole straight pin header, 1x02, 2.54mm pitch, single row
-Through hole pin header THT 1x02 2.54mm single row
-0
-2
-2
-LIBS
-Medved_PinHeader_1x02_P2.54mm_Vertical_NoLB
-Through hole straight pin header, 1x02, 2.54mm pitch, single row
-Through hole pin header THT 1x02 2.54mm single row
-0
-2
-2
-LIBS
-Medved_PinHeader_1x02_P2.54mm_Vertical_R
-Through hole straight pin header, 1x02, 2.54mm pitch, single row
-Through hole pin header THT 1x02 2.54mm single row
-0
-2
-2
-LIBS
-Medved_PinHeader_1x08_P2.54mm_Vertical
-Through hole straight pin header, 1x08, 2.54mm pitch, single row
-Through hole pin header THT 1x08 2.54mm single row
-0
-8
-8
-LIBS
-Medved_PinHeader_2x04_P2.54mm_Vertical
-Through hole straight pin header, 2x04, 2.54mm pitch, double rows
-Through hole pin header THT 2x04 2.54mm double row
-0
-8
-8
-LIBS
-Medved_PinHeader_2x07_P2.54mm_Vertical
-Through hole straight pin header, 2x07, 2.54mm pitch, double rows
-Through hole pin header THT 2x07 2.54mm double row
-0
-14
-14
-LIBS
-Medved_Pins_1x03_P2.54mm_Vertical
-Through hole straight pin header, 1x03, 2.54mm pitch, single row
-Through hole pin header THT 1x03 2.54mm single row
-0
-3
-3
-LIBS
-Medved_Pins_1x03_P2.54mm_Vertical_GM
-Through hole straight pin header, 1x03, 2.54mm pitch, single row
-Through hole pin header THT 1x03 2.54mm single row
-0
-3
-3
-LIBS
 Medved_SD_Card
 http://www.farnell.com/datasheets/1917242.pdf
 MicroSD card socket
@@ -64778,16 +64694,23 @@ MicroSD card socket
 13
 11
 LIBS
-MountingHole_2.1mm
-Mounting Hole 2.1mm, no annular
-mounting hole 2.1mm no annular
+Mini_Frank_Logo
+
+
 0
 0
 0
 LIBS
-Murm_QR_Github
+Mini_Frank_QR
 
 
+0
+0
+0
+LIBS
+MountingHole_2.1mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
 0
 0
 0
@@ -64805,20 +64728,6 @@ resistor handsolder
 0
 4
 2
-LIBS
-Raspberry_Pi_Pico_SMT_THT_MOD
-Raspberry Pi Pico (W), RP2040-based microcontroller board (with wireless)
-Pico-W RPL RPTL RPi module RP2040 CYW43439 2.4GHz RF radio Wi-Fi WiFi SMD
-0
-80
-40
-LIBS
-Raspberry_Pi_Pico_SMT_THT_MOD_2
-Raspberry Pi Pico (W), RP2040-based microcontroller board (with wireless)
-Pico-W RPL RPTL RPi module RP2040 CYW43439 2.4GHz RF radio Wi-Fi WiFi SMD
-0
-80
-40
 LIBS
 SOIC127P600X175-16N
 16 Narrow SO
@@ -64847,41 +64756,6 @@ USB-TYPE-C-31-M-12_lib2
 0
 16
 13
-LIBS
-USB_Micro-B_Amphenol
-Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf
-USB USB_B USB_micro USB_OTG
-0
-19
-6
-LIBS
-USB_Micro-B_Amphenol_10103594-0001LF_Horizontal
-Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf
-USB USB_B USB_micro USB_OTG
-0
-17
-6
-LIBS
-USB_Micro-B_Amphenol_10103594-0001LF_Horizontal_modified
-Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf
-USB USB_B USB_micro USB_OTG
-0
-17
-6
-LIBS
-VGA_JUMPER_2P
-Through hole straight pin header, 1x02, 2.54mm pitch, single row
-Through hole pin header THT 1x02 2.54mm single row
-0
-2
-2
-LIBS
-rp2040-zero-tht
-
-
-0
-46
-23
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
