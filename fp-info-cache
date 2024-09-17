@@ -1,4 +1,4 @@
-23784870055180947
+23795289683509242
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6030,6 +6030,13 @@ Capacitor_THT
 DX_5R5VxxxxU_D19.0mm_P5.00mm
 CP, Radial series, Radial, pin pitch=5.00mm, diameter=19mm, Supercapacitor, http://www.elna.co.jp/en/capacitor/double_layer/catalog/pdf/dx_e.pdf
 CP Radial series Radial pin pitch 5.00mm diameter 19mm supercapacitor
+0
+2
+2
+Capacitor_THT
+Medved_CP_Radial_D5.0mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor
 0
 2
 2
@@ -64652,6 +64659,20 @@ Yellow 5381 Series LED
 2
 2
 LIBS
+Boot_Switch
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+LIBS
+Button_SMD_6x6x5
+TS04-66-73-BK-260-SMT-1
+Switch
+0
+4
+4
+LIBS
 Connector_Mini-DIN_Female_6Pin_2rows
 A footprint for the generic 6 pin Mini-DIN through hole connector with shell.
 mini din 6pin connector socket
@@ -64686,6 +64707,13 @@ CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor
 0
 2
 2
+LIBS
+Medved_Jack_3.5mm_CUI_SJ1-3535NG_Horizontal
+TRS 3.5mm, horizontal, through-hole, with switch, https://www.cui.com/product/resource/sj1-353xng.pdf
+TRS audio jack stereo horizontal
+0
+5
+5
 LIBS
 Medved_SD_Card
 http://www.farnell.com/datasheets/1917242.pdf
@@ -64749,6 +64777,13 @@ SOT TO_SOT_SMD
 0
 6
 3
+LIBS
+TS046673BK260SMT
+TS04-66-73-BK-260-SMT-1
+Switch
+0
+4
+1
 LIBS
 USB-TYPE-C-31-M-12_lib2
 
@@ -90660,6 +90695,13 @@ Symbol
 WEEE-Logo_28.1x40mm_SilkScreen
 Waste Electrical and Electronic Equipment Directive
 Logo WEEE
+0
+0
+0
+Temp
+LOGO
+
+
 0
 0
 0

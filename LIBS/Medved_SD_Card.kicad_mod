@@ -6,7 +6,7 @@
 	(descr "http://www.farnell.com/datasheets/1917242.pdf")
 	(tags "MicroSD card socket")
 	(property "Reference" "REF**"
-		(at 0 1.73 0)
+		(at 0 1.4 0)
 		(layer "F.SilkS")
 		(uuid "2cdc533f-562d-48d3-965a-095b2bc41eab")
 		(effects
