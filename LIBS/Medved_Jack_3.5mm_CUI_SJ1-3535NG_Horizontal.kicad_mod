@@ -6,7 +6,7 @@
 	(descr "TRS 3.5mm, horizontal, through-hole, with switch, https://www.cui.com/product/resource/sj1-353xng.pdf")
 	(tags "TRS audio jack stereo horizontal")
 	(property "Reference" "REF**"
-		(at 0.01 14.1 0)
+		(at 0.01 9.71 0)
 		(layer "F.SilkS")
 		(uuid "f28eb2d4-60a0-4196-a6a7-12ed5b8925df")
 		(effects

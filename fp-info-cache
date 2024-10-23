@@ -1,4 +1,4 @@
-23798742935009705
+23802227857392863
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64673,6 +64673,13 @@ Through hole pin header THT 1x02 2.54mm single row
 2
 2
 LIBS
+Button_SMD_3x3x2
+TS04-66-73-BK-260-SMT-1
+Switch
+0
+4
+4
+LIBS
 Button_SMD_6x6x5
 TS04-66-73-BK-260-SMT-1
 Switch
@@ -64735,6 +64742,13 @@ MicroSD card socket
 0
 13
 11
+LIBS
+Medved_SOT-223-3_TabPin2
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+3
 LIBS
 Mini_Frank_Logo
 
