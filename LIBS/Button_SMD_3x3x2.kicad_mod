@@ -147,4 +147,15 @@
 		(thermal_bridge_angle 45)
 		(uuid "892fce4b-db1c-4dd2-b74d-091831e95a86")
 	)
+	(model "${KIPRJMOD}/3D/SW_SPST_PTS645.wrl"
+		(offset
+			(xyz 1.65 -1.7 0)
+		)
+		(scale
+			(xyz 0.51 0.51 0.21)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

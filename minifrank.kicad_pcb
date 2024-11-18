@@ -7319,9 +7319,9 @@
 		(descr "TS04-66-73-BK-260-SMT-1")
 		(tags "Switch")
 		(property "Reference" "SW2"
-			(at 1.8 1.64 360)
+			(at 1.8 1.64 0)
 			(layer "F.SilkS")
-			(uuid "1dbb21af-c9e5-4047-a4e0-b0e3f06d565e")
+			(uuid "e67a4061-dba2-45f6-8984-ce9efcb16cd9")
 			(effects
 				(font
 					(size 1 1)
@@ -7333,7 +7333,7 @@
 			(at 2.15 1.59 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "3033bf14-e252-4eb5-977c-37640d785ca9")
+			(uuid "b6b8b7ba-08be-4040-9258-0b660171e131")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7345,7 +7345,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4b993db1-8a7c-4ef5-abde-d9fa437c46ca")
+			(uuid "c1fc97a6-b9d1-40ed-aac3-428e223dfec8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7357,7 +7357,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dfa2c8b6-0d59-4bc0-8fb4-0847609dfb62")
+			(uuid "f1e4fb2e-61ae-4192-b820-d675066fcce5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7369,7 +7369,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "97bd8695-2048-4c08-b9f0-921644335d1c")
+			(uuid "6604eb07-a589-4c68-a5de-b6d0b9985c27")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7389,7 +7389,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "b253def0-518d-4cb0-8f48-ca58bc571654")
+			(uuid "5c5061ba-31c4-4af4-b13a-b687e5ccaef9")
 		)
 		(fp_line
 			(start 3.3 3.3)
@@ -7399,7 +7399,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "9fcb4a24-b66e-471c-a8e5-e3f4e341841b")
+			(uuid "467e0e4e-3c39-44cf-93eb-8ffd3a8da2ca")
 		)
 		(fp_line
 			(start 0 0)
@@ -7409,7 +7409,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "08279e19-16bf-4d86-86c6-9ef6ed1e8800")
+			(uuid "c140e8f1-471e-48b8-9d28-68a533a3c708")
 		)
 		(fp_line
 			(start 0 0)
@@ -7419,7 +7419,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "a284ff74-a1b5-43a5-ba94-841c6d55ff20")
+			(uuid "fd983cf6-36f6-47d9-89b9-b8d0e80dfd06")
 		)
 		(fp_line
 			(start -0.6 2.95)
@@ -7429,7 +7429,7 @@
 				(type default)
 			)
 			(layer "Dwgs.User")
-			(uuid "a145a03f-cb14-46c6-a4f9-18543ceb1726")
+			(uuid "227ef17e-f8b9-4a9b-a2ae-d17b7a605687")
 		)
 		(pad "1" smd roundrect
 			(at -0.45 0.545 270)
@@ -7440,7 +7440,7 @@
 			(pinfunction "1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "65ceed43-d18a-4572-a31e-130a55febcfe")
+			(uuid "7ef31fef-efef-44ce-921d-bcebee7f16bf")
 		)
 		(pad "2" smd roundrect
 			(at 3.76 0.545 270)
@@ -7451,7 +7451,7 @@
 			(pinfunction "2")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a7b1a1fc-f4bf-4f25-9c6b-7ab7e9324642")
+			(uuid "4955856a-6a7c-43b7-b5b9-150e8dff4f10")
 		)
 		(pad "3" smd roundrect
 			(at -0.45 2.8 270)
@@ -7462,7 +7462,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "517254fb-e587-4dd5-a412-11c1e0cfa73f")
+			(uuid "8e757225-1fea-4d3f-9974-8aca630e40a2")
 		)
 		(pad "4" smd roundrect
 			(at 3.76 2.8 270)
@@ -7473,7 +7473,18 @@
 			(pinfunction "4")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "8f707656-55c3-46b4-a9be-f7581aa9fdfe")
+			(uuid "5765456a-2e6a-4f29-a05e-8fbaee8fe061")
+		)
+		(model "${KIPRJMOD}/3D/SW_SPST_PTS645.wrl"
+			(offset
+				(xyz 1.65 -1.7 0)
+			)
+			(scale
+				(xyz 0.51 0.51 0.21)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "Connector_Dsub:DSUB-9_Male_EdgeMount_P2.77mm"
@@ -9219,9 +9230,9 @@
 		(descr "TS04-66-73-BK-260-SMT-1")
 		(tags "Switch")
 		(property "Reference" "SW1"
-			(at 1.8 1.64 180)
+			(at 1.8 1.64 360)
 			(layer "F.SilkS")
-			(uuid "ee818ddc-4b88-48e8-9846-a450695bb9e1")
+			(uuid "d13a7f31-97d7-4f95-88f6-fb8edb05be31")
 			(effects
 				(font
 					(size 1 1)
@@ -9230,10 +9241,10 @@
 			)
 		)
 		(property "Value" "Reset Button"
-			(at 2.15 1.59 -90)
+			(at 2.15 1.59 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "485c377b-fabc-4359-aeba-0640405825bf")
+			(uuid "af8e933e-2ebe-4e6d-96c7-ca92d11d9c25")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9242,10 +9253,10 @@
 			)
 		)
 		(property "Footprint" "LIBS:Button_SMD_3x3x2"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4351a2a1-3a9f-4e78-a4ef-cb731fb30ef5")
+			(uuid "1a64acd4-26f7-423d-a548-4d538c7f6b81")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9254,10 +9265,10 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f9de1a11-4d92-475a-9dbd-ac2c4e5f2d84")
+			(uuid "84fd9b99-00b4-44d7-bfa9-a12a9d2c3999")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9266,10 +9277,10 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, symbol, four pins"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c965e320-865f-407a-88f5-15fd8ded39d3")
+			(uuid "81b6bc83-a571-4f71-bc06-ff5ea050713c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9289,7 +9300,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "256a9f0e-28fa-4092-8fc9-28a5bd3f4aa0")
+			(uuid "504f14d1-8783-4131-a5b5-a96b383b49bc")
 		)
 		(fp_line
 			(start 3.3 3.3)
@@ -9299,7 +9310,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "46c3baca-81c4-4384-9176-1f1c71e5bac9")
+			(uuid "79d28b65-048d-4619-bd63-3228f983b291")
 		)
 		(fp_line
 			(start 0 0)
@@ -9309,7 +9320,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "a1725248-32a2-4290-9649-0b973c33e12a")
+			(uuid "6a4e8383-62e1-4610-a916-61fb663cf0ec")
 		)
 		(fp_line
 			(start 0 0)
@@ -9319,7 +9330,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "5aced7c4-b81d-41d5-ba42-eb39156921bf")
+			(uuid "60c07b47-edc1-4427-a2e7-d1850d9cb15b")
 		)
 		(fp_line
 			(start -0.6 2.95)
@@ -9329,7 +9340,7 @@
 				(type default)
 			)
 			(layer "Dwgs.User")
-			(uuid "3815280c-0e29-484e-a04d-911b00fbf2e1")
+			(uuid "e42ea869-e545-40de-84f4-8527ba5a77b2")
 		)
 		(pad "1" smd roundrect
 			(at -0.45 0.545 270)
@@ -9340,7 +9351,7 @@
 			(pinfunction "1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "3de9b434-207d-43b9-b902-7e5f5536c754")
+			(uuid "5c9968f0-2f91-45d1-9dc3-95bd247876c1")
 		)
 		(pad "2" smd roundrect
 			(at 3.76 0.545 270)
@@ -9351,7 +9362,7 @@
 			(pinfunction "2")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "510f6b2c-7c38-44ff-8da5-c852a0a3598d")
+			(uuid "f6ce5f3e-35af-476e-b7a7-e7fa9d2eea01")
 		)
 		(pad "3" smd roundrect
 			(at -0.45 2.8 270)
@@ -9362,7 +9373,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c97b2e9f-5b31-4f86-840f-d7f5ef88d1d9")
+			(uuid "90f3f031-e548-4779-9843-4b8c17a5dd7a")
 		)
 		(pad "4" smd roundrect
 			(at 3.76 2.8 270)
@@ -9373,7 +9384,18 @@
 			(pinfunction "4")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "4b9a4754-1e26-4c64-a2dd-3ac94598dcff")
+			(uuid "2a3106d7-cd4c-42de-a5e1-69d687cc84c2")
+		)
+		(model "${KIPRJMOD}/3D/SW_SPST_PTS645.wrl"
+			(offset
+				(xyz 1.65 -1.7 0)
+			)
+			(scale
+				(xyz 0.51 0.51 0.21)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
