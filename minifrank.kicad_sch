@@ -11353,7 +11353,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 48.26 123.952 90)
 			(effects
 				(font
@@ -11422,7 +11422,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 105.1052 110.49 0)
 			(effects
 				(font
@@ -11684,7 +11684,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 245.11 94.742 90)
 			(effects
 				(font
@@ -11751,7 +11751,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 245.11 102.362 90)
 			(effects
 				(font
@@ -11950,7 +11950,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 224.4852 69.85 0)
 			(effects
 				(font
@@ -12019,7 +12019,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 235.9152 69.85 0)
 			(effects
 				(font
@@ -12088,7 +12088,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 247.3452 69.85 0)
 			(effects
 				(font
@@ -12157,7 +12157,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 258.7752 69.85 0)
 			(effects
 				(font
@@ -12226,7 +12226,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 270.2052 69.85 0)
 			(effects
 				(font
@@ -12295,7 +12295,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 281.6352 69.85 0)
 			(effects
 				(font
@@ -12364,7 +12364,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 293.0652 69.85 0)
 			(effects
 				(font
@@ -12433,7 +12433,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 158.4452 69.85 0)
 			(effects
 				(font
@@ -12502,7 +12502,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 169.8752 69.85 0)
 			(effects
 				(font
@@ -12571,7 +12571,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 169.8752 85.09 0)
 			(effects
 				(font
@@ -13234,7 +13234,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 163.5252 38.1 0)
 			(effects
 				(font
@@ -13303,7 +13303,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 199.0852 38.1 0)
 			(effects
 				(font
@@ -13567,7 +13567,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 117.8052 185.42 0)
 			(effects
 				(font
@@ -13701,7 +13701,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 353.06 54.9148 0)
 			(effects
 				(font
@@ -13905,7 +13905,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 133.35 225.298 90)
 			(effects
 				(font
@@ -13974,7 +13974,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 370.5352 179.07 0)
 			(effects
 				(font
@@ -14175,7 +14175,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 365.76 85.598 90)
 			(effects
 				(font
@@ -14244,7 +14244,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 274.0152 135.89 0)
 			(effects
 				(font
@@ -14312,7 +14312,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LIBS:Medved_CP_Radial_D5.0mm_P2.50mm"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 364.49 170.18 0)
 			(effects
 				(font
@@ -14447,7 +14447,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 359.41 141.478 90)
 			(effects
 				(font
@@ -14731,7 +14731,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 359.41 137.668 90)
 			(effects
 				(font
@@ -15366,7 +15366,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 47.625 216.8652 0)
 			(effects
 				(font
@@ -15439,7 +15439,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LIBS:R_0805_PLUS"
+		(property "Footprint" "LIBS:Medved_D_0805"
 			(at 270.51 226.06 0)
 			(effects
 				(font
@@ -15586,7 +15586,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 365.76 72.898 90)
 			(effects
 				(font
@@ -15653,7 +15653,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 365.76 100.838 90)
 			(effects
 				(font
@@ -15722,7 +15722,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 205.4352 257.81 0)
 			(effects
 				(font
@@ -15789,7 +15789,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 236.22 227.838 90)
 			(effects
 				(font
@@ -16145,7 +16145,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LIBS:R_0805_PLUS"
+		(property "Footprint" "LIBS:Medved_D_0805"
 			(at 270.51 246.38 0)
 			(effects
 				(font
@@ -16212,7 +16212,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 359.41 133.858 90)
 			(effects
 				(font
@@ -16279,7 +16279,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 375.92 77.978 90)
 			(effects
 				(font
@@ -16346,7 +16346,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 382.27 180.848 90)
 			(effects
 				(font
@@ -16413,7 +16413,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LIBS:R_0805_PLUS"
+		(property "Footprint" "LIBS:Medved_D_0805"
 			(at 45.72 53.34 0)
 			(effects
 				(font
@@ -16480,7 +16480,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 382.27 185.928 90)
 			(effects
 				(font
@@ -16547,7 +16547,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 84.455 224.282 90)
 			(effects
 				(font
@@ -16620,7 +16620,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 355.6 95.758 90)
 			(effects
 				(font
@@ -16754,7 +16754,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 382.27 171.958 90)
 			(effects
 				(font
@@ -16887,7 +16887,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 256.54 235.458 90)
 			(effects
 				(font
@@ -17146,7 +17146,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 365.76 88.138 90)
 			(effects
 				(font
@@ -17213,7 +17213,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 130.81 48.26 0)
 			(effects
 				(font
@@ -17289,7 +17289,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 236.22 248.158 90)
 			(effects
 				(font
@@ -17423,7 +17423,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 359.41 130.048 90)
 			(effects
 				(font
@@ -17556,7 +17556,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 50.8 50.038 90)
 			(effects
 				(font
@@ -17759,7 +17759,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 256.54 240.538 90)
 			(effects
 				(font
@@ -17827,7 +17827,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 133.35 206.248 90)
 			(effects
 				(font
@@ -17896,7 +17896,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 47.625 227.0252 0)
 			(effects
 				(font
@@ -18034,7 +18034,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 355.6 80.518 90)
 			(effects
 				(font
@@ -18103,7 +18103,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 370.5352 200.66 0)
 			(effects
 				(font
@@ -18173,7 +18173,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 356.362 196.85 90)
 			(effects
 				(font
@@ -18372,7 +18372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LIBS:Medved_CP_Radial_D5.0mm_P2.50mm"
+		(property "Footprint" "LIBS:Medved_C_0805"
 			(at 364.49 191.77 0)
 			(effects
 				(font
@@ -18515,7 +18515,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 356.362 175.26 90)
 			(effects
 				(font
@@ -18654,7 +18654,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 382.27 193.548 90)
 			(effects
 				(font
@@ -18721,7 +18721,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 130.81 33.02 0)
 			(effects
 				(font
@@ -18797,7 +18797,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "LIBS:Medved_R_0805"
 			(at 375.92 93.218 90)
 			(effects
 				(font
