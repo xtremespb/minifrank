@@ -830,6 +830,10 @@
     [
       "8c0b3d8b-46d3-4173-ab1e-a61765f77d61",
       "Root"
+    ],
+    [
+      "447aa656-0f67-4c4e-9e1e-c2d42aca6373",
+      "PSRAM"
     ]
   ],
   "text_variables": {}
