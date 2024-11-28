@@ -9,8 +9,8 @@
 	(paper "A4")
 	(title_block
 		(title "Mini FRANK")
-		(date "2024-11-13")
-		(rev "1.2")
+		(date "2024-11-28")
+		(rev "1.4")
 		(company "Mikhail Matveev")
 		(comment 1 "https://github.com/xtremespb/minifrank")
 	)
