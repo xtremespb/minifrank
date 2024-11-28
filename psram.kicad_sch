@@ -1273,7 +1273,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b418311b-fc93-4696-9cba-8960a9bf89ab")
-		(property "Reference" "JP8"
+		(property "Reference" "JP1"
 			(at 91.44 64.77 0)
 			(effects
 				(font
