@@ -6957,6 +6957,7 @@
 		(property "Value" "MountingHole_2.1mm"
 			(at 0 3.2 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "b31fa97f-c8c2-4f51-a69a-6b2c8926f639")
 			(effects
 				(font
@@ -12325,6 +12326,7 @@
 		(property "Value" "MountingHole_2.1mm"
 			(at 0 3.2 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "cb9164d3-c947-4803-9c65-1d3b35a05a6b")
 			(effects
 				(font
@@ -17473,6 +17475,7 @@
 		(property "Value" "MountingHole_2.1mm"
 			(at 0 3.2 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "d52cac6e-792d-4d7f-be76-342f03963214")
 			(effects
 				(font
@@ -21234,6 +21237,7 @@
 		(property "Value" "MountingHole_2.1mm"
 			(at 0 3.2 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "328a8e41-a7f0-4785-8879-ce0e763064ea")
 			(effects
 				(font
